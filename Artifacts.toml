@@ -1,0 +1,224 @@
+[[alive2]]
+arch = "aarch64"
+git-tree-sha1 = "8b1c9b0259b9543cadf5f14256d3d9903c9e8dfd"
+os = "macos"
+
+    [[alive2.download]]
+    sha256 = "7dfaa941098b919d8e57396b2d2202a3a29f5edf1c18d4351b89afbf6fa6e977"
+    url = "https://github.com/JuliaBinaryWrappers/alive2_jll.jl/releases/download/alive2-v0.1.0+0/alive2.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[alive2]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1f53947e01e1480844e2594fa25f5e29dc6e286c"
+libc = "glibc"
+os = "linux"
+
+    [[alive2.download]]
+    sha256 = "c618c5250c77b7de60cc7503c3b2e05008d40b2c0b1a482191f43a024abf0acd"
+    url = "https://github.com/JuliaBinaryWrappers/alive2_jll.jl/releases/download/alive2-v0.1.0+0/alive2.v0.1.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[alive2]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "05a282efd6c6cc747b288ad5d21557c37c9f7f1f"
+libc = "glibc"
+os = "linux"
+
+    [[alive2.download]]
+    sha256 = "8fe66550a500c3a6072875430a0fd143261a43ae991d9e407dc74d29d1369bbb"
+    url = "https://github.com/JuliaBinaryWrappers/alive2_jll.jl/releases/download/alive2-v0.1.0+0/alive2.v0.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[alive2]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fa0109c67609c4208374526815128d1cd631e32e"
+libc = "musl"
+os = "linux"
+
+    [[alive2.download]]
+    sha256 = "af33c7cc3ae7780d0cfea5ee4c4c859cf674e603fab2ca27ec1f4614a3b1f9d4"
+    url = "https://github.com/JuliaBinaryWrappers/alive2_jll.jl/releases/download/alive2-v0.1.0+0/alive2.v0.1.0.aarch64-linux-musl-cxx03.tar.gz"
+[[alive2]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "857446575c9fcaa8f8ddc4d0e585f9d60fd74af9"
+libc = "musl"
+os = "linux"
+
+    [[alive2.download]]
+    sha256 = "e38e07bab1583d2cf031913238c6152a584a9947825479cb2e18b51cf3dca22a"
+    url = "https://github.com/JuliaBinaryWrappers/alive2_jll.jl/releases/download/alive2-v0.1.0+0/alive2.v0.1.0.aarch64-linux-musl-cxx11.tar.gz"
+[[alive2]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4e8934fae32dbdeba3189382cb69a2e7b9c834df"
+libc = "glibc"
+os = "linux"
+
+    [[alive2.download]]
+    sha256 = "abfb153d226f375bc0536464fe526de033e52158d53300fc6559c9c09253ceb3"
+    url = "https://github.com/JuliaBinaryWrappers/alive2_jll.jl/releases/download/alive2-v0.1.0+0/alive2.v0.1.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[alive2]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c2ad6e932c4f1fc4effbd5816624642fc31e89b9"
+libc = "glibc"
+os = "linux"
+
+    [[alive2.download]]
+    sha256 = "b6dbafec4c6343a769d7beeb08d0cd9d9e9e82d3cf7c7a6368b317f6dc175d2f"
+    url = "https://github.com/JuliaBinaryWrappers/alive2_jll.jl/releases/download/alive2-v0.1.0+0/alive2.v0.1.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[alive2]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ed75c4c2b234d14c07c778297de575dd54d85843"
+libc = "musl"
+os = "linux"
+
+    [[alive2.download]]
+    sha256 = "698a228825f595f39be24df0b44249b269f54789d125ad2676d8404f9943f129"
+    url = "https://github.com/JuliaBinaryWrappers/alive2_jll.jl/releases/download/alive2-v0.1.0+0/alive2.v0.1.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[alive2]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "13b3d1d60452e8bdca724ff6804863886e72a615"
+libc = "musl"
+os = "linux"
+
+    [[alive2.download]]
+    sha256 = "2ab47fd76d9cc6d65b3edaffb767f7a35c425f78408ef82a7d1a3321bc71a768"
+    url = "https://github.com/JuliaBinaryWrappers/alive2_jll.jl/releases/download/alive2-v0.1.0+0/alive2.v0.1.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[alive2]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6222fff4a4bb9ed96789eb34867295c363b1dc73"
+libc = "glibc"
+os = "linux"
+
+    [[alive2.download]]
+    sha256 = "bdb4c6b1302d829979f6b10a62ca4d1368bf2327c89e319653a00461289f0de5"
+    url = "https://github.com/JuliaBinaryWrappers/alive2_jll.jl/releases/download/alive2-v0.1.0+0/alive2.v0.1.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[alive2]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3defe0a714eb1f820b83b1aa9a375b288f048174"
+libc = "glibc"
+os = "linux"
+
+    [[alive2.download]]
+    sha256 = "7fa8178931e947195501070d755cb5ae0ad47f25193c3f3ae025d52e81a12a0d"
+    url = "https://github.com/JuliaBinaryWrappers/alive2_jll.jl/releases/download/alive2-v0.1.0+0/alive2.v0.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[alive2]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "aefcc450d22d4d147ba544c8d86fc4eb14d70d44"
+libc = "musl"
+os = "linux"
+
+    [[alive2.download]]
+    sha256 = "3d83661f5e7d191eb076d929a8db0614ed0e8df508441038c108c821006b1897"
+    url = "https://github.com/JuliaBinaryWrappers/alive2_jll.jl/releases/download/alive2-v0.1.0+0/alive2.v0.1.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[alive2]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2396be3902b7c92d47c88f8c1aea2e3b3d17b530"
+libc = "musl"
+os = "linux"
+
+    [[alive2.download]]
+    sha256 = "7df0d58557fadfba11b6675eb7f566c4f2674be912888154c2eada21a8e26802"
+    url = "https://github.com/JuliaBinaryWrappers/alive2_jll.jl/releases/download/alive2-v0.1.0+0/alive2.v0.1.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[alive2]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0759fee0c3295a0b9d744c4da33d94e947cabf9b"
+libc = "glibc"
+os = "linux"
+
+    [[alive2.download]]
+    sha256 = "f3182872cb66797170845dc70f90eb13d7dde988a69eee8d6ef6d32ccba898e6"
+    url = "https://github.com/JuliaBinaryWrappers/alive2_jll.jl/releases/download/alive2-v0.1.0+0/alive2.v0.1.0.i686-linux-gnu-cxx03.tar.gz"
+[[alive2]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "de497b40fa510e8c9de20344bd13869914c08184"
+libc = "glibc"
+os = "linux"
+
+    [[alive2.download]]
+    sha256 = "5ce57631467176d261f96a7f6f65e6106e3bdced7a3e6921fc1a5593baae751e"
+    url = "https://github.com/JuliaBinaryWrappers/alive2_jll.jl/releases/download/alive2-v0.1.0+0/alive2.v0.1.0.i686-linux-gnu-cxx11.tar.gz"
+[[alive2]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "06dfa98c5b91ceb6a4cea3f1a77bb0db553ebe70"
+libc = "glibc"
+os = "linux"
+
+    [[alive2.download]]
+    sha256 = "79b0df5bfa13c1be826c6ddff9121750ccf8d874a909ac8abbe0fbc9d94615a2"
+    url = "https://github.com/JuliaBinaryWrappers/alive2_jll.jl/releases/download/alive2-v0.1.0+0/alive2.v0.1.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[alive2]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "be56c4eb810b3a701233d0fb7cb9b5cb571ae4db"
+libc = "glibc"
+os = "linux"
+
+    [[alive2.download]]
+    sha256 = "312951dbccc51117d15eecf95e01bc7c14852b6747d33fb626aed8a2edab4d79"
+    url = "https://github.com/JuliaBinaryWrappers/alive2_jll.jl/releases/download/alive2-v0.1.0+0/alive2.v0.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[alive2]]
+arch = "x86_64"
+git-tree-sha1 = "d394190245f623ce3343f6d85a12b13bec5fef96"
+os = "macos"
+
+    [[alive2.download]]
+    sha256 = "bc9ec12a90472bbb92087e262998fa109f8b9c322d6526e88699324cf291e801"
+    url = "https://github.com/JuliaBinaryWrappers/alive2_jll.jl/releases/download/alive2-v0.1.0+0/alive2.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[alive2]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b41c62e543b2d4a7f49ba45b404f476b8e9411dd"
+libc = "glibc"
+os = "linux"
+
+    [[alive2.download]]
+    sha256 = "2785937b47bf9ca22d6072ade213d2adf6a936983109214deec3cd39a0d80f68"
+    url = "https://github.com/JuliaBinaryWrappers/alive2_jll.jl/releases/download/alive2-v0.1.0+0/alive2.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[alive2]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d2d59349b40278c462ae7fdd008b75c70c7185b5"
+libc = "glibc"
+os = "linux"
+
+    [[alive2.download]]
+    sha256 = "66b55a0eb5fcc05587480ccd1dfab3f0b86abfd4e0f6a3fe4ef50b5c01e40d1d"
+    url = "https://github.com/JuliaBinaryWrappers/alive2_jll.jl/releases/download/alive2-v0.1.0+0/alive2.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[alive2]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f9a0cc4cfa07ad6f0ef422e8737747d26d6a0566"
+libc = "musl"
+os = "linux"
+
+    [[alive2.download]]
+    sha256 = "203b4d32d26a501ea9cd44396b31650344896c70986bf5755e7705720a039cf2"
+    url = "https://github.com/JuliaBinaryWrappers/alive2_jll.jl/releases/download/alive2-v0.1.0+0/alive2.v0.1.0.x86_64-linux-musl-cxx03.tar.gz"
+[[alive2]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8398e3fa75aa7d7680320fbfb55960d112a35b86"
+libc = "musl"
+os = "linux"
+
+    [[alive2.download]]
+    sha256 = "04922d23285537af0ab49733882472971dc5e8f137840130edd5ae88457f3ede"
+    url = "https://github.com/JuliaBinaryWrappers/alive2_jll.jl/releases/download/alive2-v0.1.0+0/alive2.v0.1.0.x86_64-linux-musl-cxx11.tar.gz"
